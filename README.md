@@ -6,7 +6,15 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 **Objetivo General**
 
+- Analizar como los voltajes e intensidades de ca difieren de los de cd y los circuitos R,L y C.
+
 **Objetivos específicos**
+
+-Calcular los diferentes tipos de valores para formas de onda.
+
+-Comprender conceptos como la impedancia y reactancia.
+
+-Representar los fasores de voltaje y corriente de ca como numeros complejos.
 
 ## 2. MARCO TEÓRICO 
 
@@ -248,6 +256,10 @@ d)
 ## 4. VIDEO 
 
 ## 5. CONCLUSIONES
+
+-Enfocar los voltajes y corrientes de ca como fasores, los elementos de circuitos como impedancias y analizarlos en el dominio de fasores es mucho mas practico que analizarlos en funcion del tiempo.
+
+-La principal diferencia es que las cantidades de ca son complejas en lugar de reales como las de cd.
 
 ## 6. BIBLIOGRAFÍA
 
