@@ -81,7 +81,7 @@ Vprom =15V
 
 ![image](https://user-images.githubusercontent.com/85126275/131605775-1106df81-e6bb-4b87-939a-e2cb6c0e3729.png)
 
-** 15-9 Valores efectivos (rms) **
+**15-9 Valores efectivos (rms)**
 
 54. Determine los valores efectivos para cada uno de los siguientes casos:
 
@@ -199,9 +199,7 @@ t= 1 s.
 
 ![image](https://user-images.githubusercontent.com/85126275/131613839-954e504f-fda4-4506-a7db-a94eb59008a4.png)
 
-
-
-** 15-11 Medición de voltaje y corriente de ca **
+**15-11 Medición de voltaje y corriente de ca**
 
 64. Determine la lectura de un medidor de ca que responde al promedio para cada
 uno de los siguientes casos. (Nota: sin sentido es una respuesta válida si se
@@ -252,6 +250,68 @@ d)
 ![image](https://user-images.githubusercontent.com/85126275/131614258-53d975ef-6f93-4d5f-909d-6e4c2312e902.png)
 
 ### CAPITULO 16
+
+**16-1 Repaso de números complejos**
+
+1. Convierta cada uno de los siguientes números a forma polar:
+
+a. 5 + j12 
+
+![image](https://user-images.githubusercontent.com/85126275/131684279-543f7db8-036d-4db9-8b52-ef77b3fe568f.png)
+
+b. 9 - j6 
+
+![image](https://user-images.githubusercontent.com/85126275/131684325-0082b75c-7b92-4622-93c9-c04089cc5cc4.png)
+
+c. -8 + j15
+
+![image](https://user-images.githubusercontent.com/85126275/131684410-05375518-fc7f-47d7-877f-437f644e228b.png)
+
+d. -10 - j4
+
+![image](https://user-images.githubusercontent.com/85126275/131684488-66a755d6-9f69-4e6f-bf1a-c068bb82067b.png)
+
+2. Convierta cada uno de los siguientes números a forma rectangular:
+
+a. 6∠30 e. 20∠140
+
+b. 14∠90 f. 12∠30
+
+c. 16∠0 g. 15∠150
+
+d. 6∠150
+
+3. Grafique cada uno de los siguientes valores en el plano complejo:
+
+a. 4  j6 c. 6∠90
+
+b. j4 d. 10∠135
+
+4. Simplifique lo siguiente usando potencias de j:
+
+a. j(1  j1) d. ( j4)(j2  4)
+
+b. (j)(2  j5) e. (2  j3)(3  j4)
+
+c. j[j(1  j6)]
+
+5. Exprese sus respuestas en forma rectangular.
+
+a. (4  j8)  (3  j2) d. 2.9∠25  7.3∠5
+
+b. (4  j8)  (3  j2) e. 9.2∠120  (2.6  j4.1)
+
+c. (4.1  j7.6)  12∠20 f.
+
+6. Exprese sus respuestas en forma polar.
+
+a. (37  j9.8)(3.6  j12.3)
+
+b. (41.9∠80°)(16  j2)
+
+
+
+
 
 ## 4. VIDEO 
 
