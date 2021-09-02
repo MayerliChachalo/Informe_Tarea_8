@@ -1382,7 +1382,9 @@ d)
 
 ![image](https://user-images.githubusercontent.com/85126275/131918384-300f113e-548b-4741-aa10-6428326e0c97.png)
 
-13. Para la figura 16-50, i1  25 sen (qt  36) mA e i2  40 cos (qt  10) mA.
+13. Para la figura 16-50, i1 = 25 sen (qt + 36°) mA e i2 = 40 cos (qt - 10°) mA.
+
+![image](https://user-images.githubusercontent.com/85126275/131919226-50ad66c6-799e-4276-bdec-482ec865451a.png)
 
 a. Determine los fasores I1, I2 e IT.
 
@@ -1390,7 +1392,7 @@ a. Determine los fasores I1, I2 e IT.
 b. Determine la ecuación para iT en el dominio del tiempo.
 
 
-14. Para la figura 16-50, iT  50 sen (qt  60) A e i2  20 sen (qt  30) A.
+14. Para la figura 16-50, iT = 50 sen (qt + 60°) A e i2 = 20 sen (qt - 30°) A.
 
 a. Determine los fasores IT e I2.
 
@@ -1401,7 +1403,7 @@ b. Determine I1.
 c. A partir de (b) determine la ecuación para i1.
 
 
-15. Para la figura 16-18, i1  7 sen qt mA, i2  4 sen (qt  90) mA e i3  6 sen (qt  90) mA.
+15. Para la figura 16-18, i1 = 7 sen qt mA, i2 = 4 sen (qt - 90°) mA e i3 = 6 sen (qt + 90°) mA.
 
 a. Determine los fasores I1, I2, I3 e IT
 
@@ -1409,7 +1411,7 @@ a. Determine los fasores I1, I2, I3 e IT
 b. Determine la ecuación para iT en el dominio del tiempo.
 
 
-16. Para la figura 16-51,iT  38.08 sen (qt  21.8) A, i1  35.36 sen qt A e i3  28.28 sen (qt  90) A. Determine la ecuación para i2.
+16. Para la figura 16-51,iT = 38.08 sen (qt - 21.8°) A, i1 = 35.36 sen qt A e i3 = 28.28 sen (qt - 90°) A. Determine la ecuación para i2.
 
 
 
