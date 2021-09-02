@@ -26,6 +26,216 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 ### CAPITULO 15
 
+15-1 Introducción
+
+1. ¿A que se reﬁere “voltaje de ca” y “corriente de ca”?
+
+       Voltaje de CA: Es un tipo de corriente eléctrica que cambia a lo largo del tiempo. La variación puede ser en intensidad de corriente o en sentido a intervalos regulares. El voltaje varía entre los valores máximo y mínimo de manera cíclica. El voltaje es positivo la mitad del tiempo y negativo la otra mitad. Esto significa que la mitad del tiempo la corriente circula en un sentido y, la otra mitad en sentido opuesto.
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131753133-84f5e1a5-335d-4254-8cc8-e8dcc8fec8dc.png)
+       
+       Corriente de CA: La intensidad de una corriente alterna se debe al mayor o menor número de electrones que oscilan en cada sección del conductor. Su medida la da la carga en culombios que atraviesan la sección del conductor en un segundo, y su unidad es el amperio.
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131753291-cfe41b70-013b-41b3-bd9c-597a3fed87a6.png)
+
+15-2 Generación de voltajes de ca
+
+2. La forma de onda de la ﬁgura 15-8 es creada por un generador de 600 rpm. Si la velocidad del generador cambia de modo que su tiempo de ciclo es de 50 ms, ¿cuál es la nueva velocidad?
+
+   Dada la velocidad del generador que es 600 rpm.
+
+   El número de revoluciones por segundo está dado por: (600 rev)/(60 s) = 10 revoluciones en un segundo.
+   
+   El tiempo para una revolución esta dada por: (1/10) s = 100 ms.
+   
+   Entonces el tiempo del ciclo del generador es 100 ms.
+   
+   Dado que la velocidad del generador cambia y su tiempo del ciclo es 50 ms.
+   
+   (1/50 ms) = 20 revoluciones.
+   
+   Ahora el número de revoluciones por minuto está dada por: 60 x 20 = 1200 rpm.
+   
+3. a. ¿Qué signiﬁca valor instantáneo?
+
+   b. Para la ﬁgura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.
+
+   a) El valor instantáneo de la corriente será igual a la proyección del vector sobre el eje vertical en ese instante. También es el valor que tiene la tensión en un determinado instante de tiempo o para un determinado ángulo.
+   
+   b) ![image](https://user-images.githubusercontent.com/75383758/131754071-cd18ff06-48ce-4fee-a128-b29826d605dd.png)
+   
+       En t = 0 ms el valor instantáneo es 0 V.
+       
+       En t = 1 ms el valor instantáneo es 10 V.
+       
+       En t = 2 ms el valor instantáneo es 20 V.
+       
+       En t = 3 ms el valor instantáneo es 20 V.
+       
+       En t = 4 ms el valor instantáneo es 20 V.
+       
+       En t = 5 ms el valor instantáneo es 0 V.
+       
+       En t = 6 ms el valor instantáneo es -20 V.
+       
+       En t = 7 ms el valor instantáneo es -20 V.
+       
+       En t = 8 ms el valor instantáneo es 0 V.
+       
+15-3 Convenciones de voltaje y corriente para ca
+
+4. Para la ﬁgura 15-75, ¿qué valor tiene I cuando el interruptor está en la posición 1? ¿Cuándo está en la posición 2? Incluya el signo.
+
+![image](https://user-images.githubusercontent.com/75383758/131754682-ac3fe228-62de-40ff-b989-8313590c2989.png)
+
+5. La fuente de la ﬁgura 15-76 tiene la forma de onda de la ﬁgura 15-74. Determine la corriente en t = 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
+
+![image](https://user-images.githubusercontent.com/75383758/131754952-54a74df0-c7d8-4c36-8e17-88360c5e35c2.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131754967-d8856ab7-c29b-41d2-a8c9-8d5007245033.png)
+
+  En t = 0 ms:
+  
+  ![image](https://user-images.githubusercontent.com/75383758/131755076-2c94b195-3b54-443f-9e76-2be9cb9fa5cf.png)
+
+  En t = 1 ms:
+  
+  ![image](https://user-images.githubusercontent.com/75383758/131755107-77a0f176-16b0-4326-8931-18769ada0cd6.png)
+  
+  En t = 2 ms:
+  
+  ![image](https://user-images.githubusercontent.com/75383758/131755144-0b3903e2-22bc-47e6-997d-a67ebb86ac7e.png)
+  
+  En t = 3 ms:
+  
+  ![image](https://user-images.githubusercontent.com/75383758/131755169-a7cda0e9-7b4b-44c1-b86d-42499c676cf0.png)
+  
+  En t = 4 ms:
+  
+  ![image](https://user-images.githubusercontent.com/75383758/131755188-63e5d1e0-29cd-41d9-9b9b-2bc94c657673.png)
+  
+  En t = 5 ms:
+  
+  ![image](https://user-images.githubusercontent.com/75383758/131755215-730df95d-3112-4350-b869-19d850766355.png)
+  
+  En t = 6 ms:
+  
+  ![image](https://user-images.githubusercontent.com/75383758/131755250-95efde50-0f6b-47e5-8df2-94801b392dcd.png)
+  
+  En t = 7 ms:
+  
+  ![image](https://user-images.githubusercontent.com/75383758/131755276-0bf4518c-ecb8-4d7d-9cf0-35bff329f7d2.png)
+  
+  En t = 8 ms:
+  
+  ![image](https://user-images.githubusercontent.com/75383758/131755306-dbfadfa6-c43e-4a08-aef3-b394ee66ad29.png)
+
+15-4 Frecuencia, periodo, amplitud y valor pico 
+
+6. Para cada uno de los siguientes, determine el periodo:
+
+a. f = 100 Hz
+
+![image](https://user-images.githubusercontent.com/75383758/131755361-e0ee56f1-9d0a-4af5-9493-b5278317ea9c.png)
+
+b. f = 40 kHz
+
+![image](https://user-images.githubusercontent.com/75383758/131755384-77f335ed-0f74-4ddf-adfc-2e87174a9db3.png)
+
+c. f = 200 MHz
+
+![image](https://user-images.githubusercontent.com/75383758/131755397-39d1997f-c554-4a8c-b2de-29ea41589cee.png)
+
+7. Para cada uno de los siguientes, determine la frecuencia:
+
+a. T = 0.5 s
+
+![image](https://user-images.githubusercontent.com/75383758/131755496-1aeaa4f2-c9d9-4b7a-9ef1-c774b758c53b.png)
+
+b. T = 100 s
+
+![image](https://user-images.githubusercontent.com/75383758/131755520-68a75f31-af89-4e39-85f8-232bb32c8b68.png)
+
+c. 5T = 80 μs
+
+![image](https://user-images.githubusercontent.com/75383758/131755537-96afb463-e20c-4ded-a033-0d603bb29553.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131755544-61191a0d-2014-4bfc-a2c7-c6873b9f5d4d.png)
+
+8. Para una onda triangular, f = 1.25 MHz. ¿Cuál es su periodo? ¿Cuánto tiempo le toma pasar por 8 x 10^7 ciclos?
+
+![image](https://user-images.githubusercontent.com/75383758/131755644-f7387a06-1f33-401b-a0ce-92da823961e6.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131755662-2aae2955-80e2-46b6-ac43-35bafdb8569b.png)
+
+9. Determine el periodo y la frecuencia de la forma de onda de la ﬁgura 15-77.
+
+![image](https://user-images.githubusercontent.com/75383758/131755686-478333a6-aa81-484a-a6cf-5a9d55dc6823.png)
+
+El periodo es T = 7 ms. Y la frecuencia es:
+
+![image](https://user-images.githubusercontent.com/75383758/131755771-698280a2-e173-45cd-a502-94b8f3a617e3.png)
+
+10. Determine el periodo y la frecuencia de la forma de onda de la ﬁgura 15-78. ¿Cuántos ciclos se muestran?
+
+![image](https://user-images.githubusercontent.com/75383758/131755819-ce66c722-2a70-49ce-be7b-fedc7c530948.png)
+
+El periodo es T = 8 μs. Y la frecuencia es:
+
+![image](https://user-images.githubusercontent.com/75383758/131755904-18052d80-f1ec-4439-aafa-95bfab245c9b.png)
+
+En la figura se muestran dos ciclos.
+
+11. ¿Cuál es el voltaje pico a pico para la ﬁgura 15-77? ¿Cuál es la corriente pico a pico de la ﬁgura 15-78?
+
+![image](https://user-images.githubusercontent.com/75383758/131756016-4c24b2bc-ea0f-4a03-a23b-aaac73b2f0fd.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131756030-7eaf256d-ebc8-41db-87a2-5d9ce948802b.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131756039-9f5ab549-64bf-4ef3-8514-92224cc064c9.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131756051-dabc1718-7935-4737-84c7-cb5ac4397467.png)
+
+12. Para cierta forma de onda, 625T = 12.5 ms. ¿Cuál es el periodo y la frecuencia de la forma de onda?
+
+![image](https://user-images.githubusercontent.com/75383758/131756088-e0491c31-52f7-4a15-aad8-b1bed541f0e4.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131756099-1fe314d7-73cf-4d20-a766-4b561d4d2242.png)
+
+13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
+
+         2 minutos y 57 segundos x f
+        
+        = 2 minutos y 57 segundos x 847 Hz
+        
+        = 177 segundos x 847 Hz
+        
+        = 149919 ciclos.
+
+14. Para la forma de onda de la ﬁgura 15-79, determine
+
+a. periodo
+
+![image](https://user-images.githubusercontent.com/75383758/131756299-68c4f3da-db3b-40c6-b117-e64ad3d64a2f.png)
+
+b. frecuencia
+
+![image](https://user-images.githubusercontent.com/75383758/131756317-54bf6fb2-1696-4f8a-99fb-4f06dbde84d1.png)
+
+c. valor pico a pico
+
+![image](https://user-images.githubusercontent.com/75383758/131756341-f340954b-a7ca-40a2-986d-270c4d4f0a05.png)
+
+15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 = 0.25T2 y f1 = 10 kHz, ¿cuáles son los valores de T1, T2 y f2?
+
+![image](https://user-images.githubusercontent.com/75383758/131756398-916182c0-a374-4dbf-a47c-04210458bd9e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131756422-a4654e74-6f41-46e2-8ef4-3f4a1792fefc.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131756440-88725a1c-b62e-4e68-9ac6-268e61f6408e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131756456-82d32e2c-51b3-4f43-b2be-b17f06c348fa.png)
+
 
 51. Para el circuito de la figura 15-90, e = 25 sen qt V y un periodo de T = 120 ms.
 
