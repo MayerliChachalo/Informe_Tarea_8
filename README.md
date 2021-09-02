@@ -1286,51 +1286,130 @@ b. (41.9 <-80°)(16 + j2)
 
 a. e = 100 sen (qt + 30°) V 
 
+![image](https://user-images.githubusercontent.com/85126275/131912180-a7a87f2a-945f-4f30-b22a-f4b1860d25ad.png)
 
 b. e = 15 sen (qt - 20°) V 
 
+![image](https://user-images.githubusercontent.com/85126275/131912202-8f48e7c9-ae58-4d81-be96-4d5c30539e86.png)
 
 c. e = 50 sen (qt + 90°) V 
 
+![image](https://user-images.githubusercontent.com/85126275/131912220-b962a8d4-1b50-4659-b1f5-313e4d932dd8.png)
 
 d. e = 50 cos qt V
 
+![image](https://user-images.githubusercontent.com/85126275/131912249-d4087a09-a92b-4405-b714-ae5525d7fc61.png)
 
 e. e = 40 sen (qt + 120°) V
 
+![image](https://user-images.githubusercontent.com/85126275/131912283-b4c4bcb5-851b-4aff-86f8-8ebfc0bb766b.png)
 
 f. e = 80 sen (qt - 70°) V
 
+![image](https://user-images.githubusercontent.com/85126275/131912303-eeed84a8-ae88-4f6f-82d6-45a85a28e55e.png)
 
 9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
 
-10. Dado e1  10 sen (qt  30) V y e2  15 sen(qt  20) V. Determine su suma v  e1  e2 a la manera del ejemplo 16-7, es decir,
+a) 
+
+![image](https://user-images.githubusercontent.com/85126275/131912372-102a43c6-8ac8-4418-997f-4aaf137b78cc.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/131912412-05343c3b-f510-4b83-aa17-7e30b1491374.png)
+
+10. Dado e1 = 10 sen (qt + 30°) V y e2 = 15 sen(qt - 20°) V. Determine su suma v = e1 + e2 a la manera del ejemplo 16-7, es decir,
 
 a. Convierta e1 y e2 a su forma fasorial.
 
-b. Determine V  E1  E2
+![image](https://user-images.githubusercontent.com/85126275/131915523-b04da298-48b8-48f4-8d23-4b8e27427e8a.png)
+
+b. Determine V = E1 + E2
+
+![image](https://user-images.githubusercontent.com/85126275/131915543-b5ff86d0-5c62-4938-ab64-cd50e46d1396.png)
 
 c. Convierta V al dominio del tiempo.
 
+![image](https://user-images.githubusercontent.com/85126275/131915617-300f1b31-fdd4-4155-8a98-1e054225aae7.png)
+
 d. Grafique e1, e2 y v de acuerdo con la figura 16-13.
 
-11. Repita el problema 10 para v  e1  e2.
+![image](https://user-images.githubusercontent.com/85126275/131915642-65856d2f-a48a-49ae-9b89-98f963571643.png)
 
-12. Exprese los voltajes y las corrientes de la figura 16-49 en cantidades en el dominio
-del tiempo y en el dominio de de los fasores.
+11. Repita el problema 10 para v = e1 - e2.
+
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/131915704-27c3e073-4ee8-4126-b2bd-c8a7a9f805f9.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/131917754-fc4bd2d7-9294-4463-8346-a0486e92c5dd.png)
+
+c) 
+
+![image](https://user-images.githubusercontent.com/85126275/131917803-0264de99-a952-40e3-9d93-76623b9ee33d.png)
+
+d)
+
+![image](https://user-images.githubusercontent.com/85126275/131917832-e8399ea3-bff3-4452-b70c-30274b3c8eaf.png)
+
+12. Exprese los voltajes y las corrientes de la figura 16-49 en cantidades en el dominio del tiempo y en el dominio de de los fasores.
+
+![image](https://user-images.githubusercontent.com/85126275/131917870-f8e9481c-942d-4bb9-ba55-443f1da32368.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/131918114-63356157-c1d1-457a-b01c-e1969e2031d0.png)
+
+![image](https://user-images.githubusercontent.com/85126275/131918167-762d3ca3-91a7-43b3-b59c-55dfbb39c55c.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/131918218-c7826d66-9d32-403b-93a9-b05b1d78a876.png)
+
+![image](https://user-images.githubusercontent.com/85126275/131918243-77ace504-e16b-449a-b6b9-f65c1e04971f.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/85126275/131918275-3838c313-3f3d-432e-ba72-c98c7bbb22d0.png)
+
+![image](https://user-images.githubusercontent.com/85126275/131918295-8b9b3323-0e10-4481-9383-0e444482aaf3.png)
+
+d) 
+
+![image](https://user-images.githubusercontent.com/85126275/131918327-9d373b3b-274c-480e-a4a0-41e0e18b6a0c.png)
+
+![image](https://user-images.githubusercontent.com/85126275/131918384-300f113e-548b-4741-aa10-6428326e0c97.png)
+
+13. Para la figura 16-50, i1  25 sen (qt  36) mA e i2  40 cos (qt  10) mA.
+
+a. Determine los fasores I1, I2 e IT.
 
 
+b. Determine la ecuación para iT en el dominio del tiempo.
 
 
+14. Para la figura 16-50, iT  50 sen (qt  60) A e i2  20 sen (qt  30) A.
+
+a. Determine los fasores IT e I2.
 
 
+b. Determine I1.
 
 
+c. A partir de (b) determine la ecuación para i1.
 
 
+15. Para la figura 16-18, i1  7 sen qt mA, i2  4 sen (qt  90) mA e i3  6 sen (qt  90) mA.
+
+a. Determine los fasores I1, I2, I3 e IT
 
 
+b. Determine la ecuación para iT en el dominio del tiempo.
 
+
+16. Para la figura 16-51,iT  38.08 sen (qt  21.8) A, i1  35.36 sen qt A e i3  28.28 sen (qt  90) A. Determine la ecuación para i2.
 
 
 
