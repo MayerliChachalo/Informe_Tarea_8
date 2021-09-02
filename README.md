@@ -236,7 +236,564 @@ c. valor pico a pico
 
 ![image](https://user-images.githubusercontent.com/75383758/131756456-82d32e2c-51b3-4f43-b2be-b17f06c348fa.png)
 
+16. Dos formas de onda tienen frecuencias f1 y f2, respectivamente. Si T1 = 4T2 y la forma de onda 1 es cómo la de la ﬁgura 15-77, ¿qué valor tiene f2?
 
+![image](https://user-images.githubusercontent.com/75383758/131763170-76b6e7a4-d764-430a-880a-94ddf09e62d3.png)
+
+T1 = 7 ms, T1 = 4T2
+
+![image](https://user-images.githubusercontent.com/75383758/131763230-c83cadbc-5822-4098-b35e-ea1a0c5b8d8d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131763241-b69c0a24-84f1-4ef6-922a-9f6eafb7a6e4.png)
+
+15-5 Relaciones angular y gráﬁca paras las ondas seno
+
+17. Dado el voltaje v = Vm sen a. Si Vm = 240 V, ¿qué valor tiene v cuando a = 37°?
+
+![image](https://user-images.githubusercontent.com/75383758/131763328-2a5963a3-5362-4b9f-ad75-0f542774b7ce.png)
+
+18. Para la forma de onda sinusoidal de la ﬁgura 15-80,
+
+![image](https://user-images.githubusercontent.com/75383758/131763358-8061ab15-83c2-4dcc-a775-07fbc69e3816.png)
+
+a. Determine la ecuación para i.
+
+       i = Im sen(a), Im = 50 A
+       
+       i = 50 sen(a)
+
+b. Determine la corriente en todos los puntos marcados.
+
+       En 40°:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131763488-6d57148d-0d5d-4109-813b-8cbd3a23ebd3.png)
+
+       En 120°:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131763500-818138c8-4d28-456a-9d56-229fb8d1e565.png)
+
+       En 200°:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131763520-f0b99ddf-2375-4ab3-be37-fd0bc5f279a0.png)
+
+       En 310°:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131763545-3de40b3e-a434-4685-8908-31d0a9bdc28f.png)
+
+19. Un voltaje sinusoidal tiene un valor de 50 V cuando a = 150° ¿Qué valor tiene Vm?
+
+![image](https://user-images.githubusercontent.com/75383758/131763608-d63591ab-f4cc-4519-bae0-04c78c271b65.png)
+
+20. Convierta los siguientes ángulos de radianes en grados:
+
+a. π/12       
+
+![image](https://user-images.githubusercontent.com/75383758/131763958-e77c2703-9eeb-4caf-ab6a-929f233a0f05.png)
+
+b. π/1.5
+
+![image](https://user-images.githubusercontent.com/75383758/131763987-71419a48-2f99-447e-98d0-ff98b1376093.png)
+
+c. 3π/2
+
+![image](https://user-images.githubusercontent.com/75383758/131764013-8e815c37-a413-44b1-885a-13559af6dddb.png)
+
+d. 1.43
+
+![image](https://user-images.githubusercontent.com/75383758/131764050-cad8cb96-6a17-451c-bfe2-5f6c74c0dcf2.png)
+
+e. 17
+
+![image](https://user-images.githubusercontent.com/75383758/131764084-109aaadc-0ca1-4e63-97b6-57979910b65a.png)
+
+f. 32π
+
+![image](https://user-images.githubusercontent.com/75383758/131764136-831fa511-0ba4-4726-b954-dc0d255cff40.png)
+
+21. Convierta los siguientes ángulos de grados a radianes:
+
+a. 10°
+
+![image](https://user-images.githubusercontent.com/75383758/131764356-30d7767d-7fee-42f2-b80f-607fbcf11982.png)
+
+b. 25°
+
+![image](https://user-images.githubusercontent.com/75383758/131764397-11eabdd5-2f79-4d98-9449-4dca36987ad4.png)
+
+c. 80°
+
+![image](https://user-images.githubusercontent.com/75383758/131764492-efa87816-9028-4ffb-a242-74b35cea3284.png)
+
+d. 150°
+
+![image](https://user-images.githubusercontent.com/75383758/131764550-269e4c59-a670-470b-9ed7-5b89c82e1bfd.png)
+
+e. 350°
+
+![image](https://user-images.githubusercontent.com/75383758/131764586-1928e4c2-9750-41c8-9246-e4337b5bce7e.png)
+
+f. 620°
+
+![image](https://user-images.githubusercontent.com/75383758/131764623-2500e210-6057-4def-8144-fbd5856adc01.png)
+
+22. Una onda seno de 50 kHz tiene una amplitud de 150 V. Dibuje la forma de onda con sus ejes con escalas en microsegundos.
+
+![image](https://user-images.githubusercontent.com/75383758/131764685-206a4df2-1e33-4bb9-8dec-eec0e93289bd.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131764701-5f0f0cb4-183b-4ec5-a1b9-5d52fd389bdd.png)
+
+23. Si el periodo de la forma de onda en la ﬁgura 15-80 es 180 ms, calcule la corriente en t = 30, 75, 140 y 315 ms.
+
+![image](https://user-images.githubusercontent.com/75383758/131764736-d5e3ff6c-ea56-41a2-a2ae-cdc4ea63ca51.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131764764-d05103a1-9bd7-4254-925f-ad12937f4061.png)
+
+       Im = 50 A
+       
+       i = Im*sen(ωt)
+       
+       i = 50*sen(2000°/(sxt))
+       
+       En t = 30 ms:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131764900-fa65802e-b80c-4866-9d22-f2804c926b9b.png)
+
+       En t = 75 ms:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131764919-87fc6a1f-fffd-448c-88e6-74b38f331bf9.png)
+
+       En t = 140 ms:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131764932-51bbfc68-a829-463b-aa87-6472aa9b18c6.png)
+
+       En t = 315 ms:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131764948-2f181f8c-8499-4193-a6cb-a7f0d6c513e3.png)
+       
+24. Una forma de onda sinusoidal tiene un periodo de 60 μs y Vm = 80 V. Dibuje la forma de onda. ¿Cuál es el voltaje en 4 μs?
+
+![image](https://user-images.githubusercontent.com/75383758/131765131-ee2dd78c-4d04-4af5-b047-7f3f17b44044.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131765231-0db45302-c060-476f-8bc0-f5858e91a42e.png)
+
+       La ecuación general del voltaje sinusoidal es: v = Vm*sen(ωt)
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131765328-016475cb-c51e-41e7-b55d-f2a2c39e556c.png)
+
+       El voltaje en t = 4 μs es:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131765361-44b3703e-55d5-4573-9624-bf04f9294591.png)
+
+25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t = 5 μs. Determine Vm y dibuje la forma de onda. 
+
+![image](https://user-images.githubusercontent.com/75383758/131765533-44eb71e7-ee69-442b-a929-82c7c194429b.png)
+
+       v = Vm*sen(ωt)
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131765589-224d1466-0af2-40a2-a24b-cf83b925c9ad.png)
+
+       ![image](https://user-images.githubusercontent.com/75383758/131765600-510b1972-c619-4cdc-b018-b42680b63ead.png)
+
+       ![image](https://user-images.githubusercontent.com/75383758/131765612-11d306ba-cdb2-4e39-9eb8-6b9c8d5f65fd.png)
+
+       ![image](https://user-images.githubusercontent.com/75383758/131765627-3f3aab6c-df49-431c-934b-17131849fc00.png)
+
+26. Para la forma de onda de la ﬁgura 15-81, determine v2.
+
+![image](https://user-images.githubusercontent.com/75383758/131765648-de5543fb-da10-4281-805d-0d16c9b6a37b.png)
+
+       v = Vm*sen(a)
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131765701-531a1eae-03fe-4ace-b9b4-9441da070af3.png)
+
+       v = 65.818*sen(a)
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131765744-aa681fce-ddca-4cec-825b-3028818c48e6.png)
+
+15-6 Voltajes y corrientes como funciones del tiempo
+
+27. Calcule q en radianes por segundo para cada uno de los siguientes casos:
+
+a. T = 100 ns
+
+![image](https://user-images.githubusercontent.com/75383758/131765827-9ac581d9-e25f-47ca-9a58-8667611eb7a9.png)
+
+b. f = 30 Hz
+
+![image](https://user-images.githubusercontent.com/75383758/131765839-cd4a0a65-acb3-456c-aebd-1b45cadda576.png)
+
+c. 100 ciclos en 4 s
+
+![image](https://user-images.githubusercontent.com/75383758/131766111-8b402269-e4da-45cd-95c3-599f680ea103.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131766131-f92a5575-17eb-4d9f-8b5a-2066b962ee4d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131766141-dfd91e20-d3ca-44ca-897c-6c6abbf964cc.png)
+
+d. periodo = 20 ms
+
+![image](https://user-images.githubusercontent.com/75383758/131766733-f4d7a050-9d8e-4cd3-a15b-06f9870803d9.png)
+
+e. 5 periodos en 20 ms
+
+![image](https://user-images.githubusercontent.com/75383758/131766756-e40ec6be-3745-4855-9109-d7abec09164e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131766762-5a86a646-ce81-4f8c-a94d-ef442296f780.png)
+
+28. Para cada uno de los siguientes valores de q, calcule f y T:
+
+a. 100 rad/s
+
+![image](https://user-images.githubusercontent.com/75383758/131766854-19a68d13-cd0b-4a52-86e4-c325db5f2d36.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131766863-64472d5e-bbcd-4c34-9885-66e965d00929.png)
+
+b. 40 rad en 20 ms
+
+![image](https://user-images.githubusercontent.com/75383758/131766894-32389377-85d0-43ec-859f-bb6348c09bf4.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131766906-5c4d0bb0-7e2a-442e-9114-0f0a4fb1e674.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131766921-be6d6d21-ec2d-43d7-a24b-79157b403419.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131766934-8e7a14af-d785-4146-ac2b-1cede3b5e1b8.png)
+
+c. 34 x 10^3 rad/s
+
+![image](https://user-images.githubusercontent.com/75383758/131766980-b0517480-cf7c-4cf9-894b-dd5e212b18a2.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131766994-457cacad-eff1-470b-a15e-436128501ddb.png)
+
+29. Determine las ecuaciones para las ondas seno con lo siguiente:
+
+a. Vm = 70 V, f = 60 Hz
+
+![image](https://user-images.githubusercontent.com/75383758/131769090-c270570a-2917-4fc8-a56c-610940bfeade.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769100-cfeb522e-8b1f-4e99-9b32-d7a11a5cc1fa.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769117-737eb139-a721-4137-878f-ed153dc494f0.png)
+
+b. Im = 40 μA, T = 10 ms
+
+![image](https://user-images.githubusercontent.com/75383758/131769141-a3afd80c-f405-4e33-841d-bacb857d8931.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769158-87238506-aebb-4bdc-8433-fa031bfde733.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769171-96b94496-fbdd-493a-9189-fb4b1c36b392.png)
+
+c. T = 120 μs, v = 10 V en t = 12 μs
+
+![image](https://user-images.githubusercontent.com/75383758/131769184-34ae87ff-7310-4e16-a7d5-8b8f501dc850.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769199-c5016ec9-49eb-472b-bc00-8b4cac3618cc.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769205-4007a6f2-17d4-4358-925d-44ea0afd09b7.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769217-794af157-fa35-4fcc-99d1-332faf1d544c.png)
+ 
+       Sustituyendo en 1:              
+      
+![image](https://user-images.githubusercontent.com/75383758/131769245-ad2ac364-3665-4247-85da-2206dd7725cc.png)
+
+30. Determine f, T y la amplitud para cada uno de los siguientes casos:
+
+a. v = 75 sen 200πt
+
+![image](https://user-images.githubusercontent.com/75383758/131769337-c5a093ea-9388-49bc-8d8f-a52d81fe3bdd.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769349-ae37e18e-e38b-41d4-a2b8-7d80a9eff381.png)
+
+       Igualando 1 y 2:
+       
+![image](https://user-images.githubusercontent.com/75383758/131769368-1cef3f60-94cc-48d4-b9d9-f111e302e035.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769385-a7021bcf-90c8-45aa-9cf1-1645a8648f45.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769391-cdc3ce3f-005a-4e15-93a6-fb693d27bd7d.png)
+
+b. i = 8 sen 300t
+
+![image](https://user-images.githubusercontent.com/75383758/131769419-6d5a4b2e-c099-4acf-8a7e-88ba157332b4.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769426-5c831e81-843a-40b3-856f-60410b9759c3.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769435-10828620-cdf7-46c1-a30e-73893354e77d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769442-62deead2-e44a-4b2c-814e-34878354e470.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769454-2928d980-7f6c-402d-9531-ba0f2288c14d.png)
+
+31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.
+
+![image](https://user-images.githubusercontent.com/75383758/131769626-95858bdc-77dd-40e1-afd8-a6397d0bf630.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769669-6213770c-b70f-461a-8329-6fc881a1ae40.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769678-5faa8ea4-9c7e-4ab8-bd19-18023ecb464d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769692-a855548f-741a-4436-b471-eeba6d4b2135.png)
+
+32. Dibuje las siguientes formas de onda con su eje horizontal con escalas en grados, radianes y segundos:
+
+a. v = 100 sen 200πt V
+
+![image](https://user-images.githubusercontent.com/75383758/131769855-5e7123ba-c555-4123-b37b-a62e4609f6bd.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769867-089406cf-9fc5-440c-bb32-2d12839f24ec.png)
+
+       Igualando 1 y 2:
+       
+![image](https://user-images.githubusercontent.com/75383758/131769892-51163688-c30c-46e9-961b-054f421af692.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131769905-1e587642-fe92-4f89-bb38-ef30c27a630f.png)
+
+       En grados:
+
+![image](https://user-images.githubusercontent.com/75383758/131769943-ff8b015c-c415-4a93-80e9-e89846cc3559.png)
+
+       En radianes:
+
+![image](https://user-images.githubusercontent.com/75383758/131769960-40a579a6-7c88-45ce-ad35-416f458c12ff.png)
+
+       En segundos:
+       
+![image](https://user-images.githubusercontent.com/75383758/131770011-768e49b8-32ae-4c95-a239-eff339ef4ef0.png)
+       
+b. i = 90 sen qt mA, T = 80 μs
+
+![image](https://user-images.githubusercontent.com/75383758/131770040-30e8a3f4-db9a-4351-8545-d750895a24e4.png)
+
+       Sustituyendo en la ecuación inicial:
+       
+![image](https://user-images.githubusercontent.com/75383758/131770075-be286374-1fe0-422b-bdac-d5e98b5de94f.png)
+
+       En grados:
+       
+![image](https://user-images.githubusercontent.com/75383758/131770106-900405f1-4fa9-4b77-97cf-522255726fe8.png)
+
+       En radianes:
+       
+![image](https://user-images.githubusercontent.com/75383758/131770127-28b3f619-e489-4cab-af3e-763130aa7b12.png)
+
+       En segundos:
+       
+![image](https://user-images.githubusercontent.com/75383758/131770155-53deff07-d6be-440c-9a05-a8c315b09f6c.png)
+
+33. Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80, 410 y 1200 μs.
+
+              En t = 0 s
+              
+              ![image](https://user-images.githubusercontent.com/75383758/131770318-1bc3b23a-0099-4ca7-baf3-baea2eb9b7c0.png)
+
+              En t = 80 μs
+              
+              ![image](https://user-images.githubusercontent.com/75383758/131770393-68066ee7-d7bb-40b7-aa2f-170cbfb7c35f.png)
+
+              En t = 410 μs
+              
+              ![image](https://user-images.githubusercontent.com/75383758/131770431-386a62ed-7d49-4f9f-93ae-2f77132b915d.png)
+
+              En t = 1200 μs
+              
+              ![image](https://user-images.githubusercontent.com/75383758/131770516-14b5fa2c-4b72-4884-9d1a-69f565fdb862.png)
+
+34. Dado v = 100 sen a. Dibuje un ciclo.
+
+![image](https://user-images.githubusercontent.com/75383758/131770689-c479a58e-1d09-4e99-9f11-aa20ff96d7e2.png)
+
+a. Determine en cuáles dos ángulos v = 86.6 V.
+       
+![image](https://user-images.githubusercontent.com/75383758/131770740-ba036e10-b2d3-46b6-9d5b-7c805c4f5f8b.png)
+
+b. Si ω = 100π/60 rad/s, ¿en qué tiempos ocurren?
+
+![image](https://user-images.githubusercontent.com/75383758/131770803-9f034963-80d8-4ae7-9577-10cfb4ce71bd.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131770823-d0a5b0f4-9e33-4a39-b451-017dd67ddbe6.png)
+
+35. Escriba las ecuaciones para las formas de onda de la ﬁgura 15-82. Exprese la fase del ángulo en grados.
+
+![image](https://user-images.githubusercontent.com/75383758/131770860-95b0e1d1-60e8-48fe-bf75-853c3f701b05.png)
+
+a) ![image](https://user-images.githubusercontent.com/75383758/131770881-7ba50ac5-ae02-4558-8dac-75909cbbfdf8.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131770911-8c8a1e95-c1a5-4727-84e4-00d491062f15.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131770922-554e030f-a2d8-400d-b72d-eedd0322a970.png)
+
+b) ![image](https://user-images.githubusercontent.com/75383758/131770937-853bc476-74f7-4db0-8d10-e25215dfee9e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131770965-6d1a1f26-8896-4e07-a749-1481c95c292e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131770972-6e33bd68-e925-4a70-9d5d-0c648a824ffc.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131770990-705e0e1f-b49d-4c07-b70d-98126519a711.png)
+
+36. Dibuje las siguientes formas de onda coloque en el eje horizontal escalas en grados y segundos.
+
+a. v = 100 sen(232.7t + 40°) V
+
+       1. Desde que 232.7t y 20° son angulos, (232.7t + 40°) es también un angulo. 
+       
+       2. Consideramos v = 100*sen(232.7t + 40°)
+       
+       En t = 0s
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131771355-015672f1-84f4-4fcd-a360-96f5f13d1b5b.png)
+
+       3. De la ecuación dada obtenemos: 
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131771397-65c1ce11-e78a-473c-813f-60c966f4b525.png)
+
+       ![image](https://user-images.githubusercontent.com/75383758/131771447-53d5046c-04df-442f-a3ef-64e4566f0774.png)
+
+       En grados:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131771486-916072fc-957d-48cd-9548-23fd6160fcc5.png)
+
+       En segundos:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131771511-76113890-0e5a-4ee6-b5bf-7c3e9e4c059f.png)
+
+b. i = 20 sen(ωt - 60°) mA, f = 200 Hz
+
+       ![image](https://user-images.githubusercontent.com/75383758/131771539-7836745a-832d-4bd8-bf4f-96dcdad74c45.png)
+
+       1. Desde que ωt y 60° son angulos. (ωt - 60°) es también un angulo. 
+       
+       2. Consideramos i = 20*sen(ωt - 60°)
+       
+       En t = 0s
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131771749-973ac1b5-7009-4650-a5d8-6cb10afab43a.png)
+
+       3. Sabemos que ω = 72000°/s. Toma 833.33 μs para que ωt alcance 60°. Entonces:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131771891-2cb24f3a-1684-4a49-9f79-602c3d098d7d.png)
+
+       En grados:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131771922-8bad3cfe-2c27-4991-a320-d9c61177f107.png)
+
+       En segundos: 
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131771946-489c6fc3-0033-47ad-a698-09f639a71679.png)
+
+37. Dada v = 5 sen(ωt + 45°). Si ω = 20π rad/s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
+
+       Sustituyendo ω en la ecuación inicial:
+
+       ![image](https://user-images.githubusercontent.com/75383758/131772122-1c55352e-21ed-4db1-822a-b65fc0e7b6c8.png)
+       
+              En t = 20 ms:
+              
+              ![image](https://user-images.githubusercontent.com/75383758/131772174-87bd920d-a69b-4062-bd0e-1c1e69008b77.png)
+
+              En t = 75 ms:
+              
+              ![image](https://user-images.githubusercontent.com/75383758/131772207-1057cfea-cbf8-4c5f-aee6-16ec37cecb6d.png)
+
+              En t = 90 ms:
+              
+              ![image](https://user-images.githubusercontent.com/75383758/131772233-e20797d9-950a-4720-a06c-e319c3923d6f.png)
+
+38. Repita el problema 35 para las formas de onda de la ﬁgura 15-83.
+
+![image](https://user-images.githubusercontent.com/75383758/131772271-afbe63c0-4ebc-4a1a-ab30-a305e2e5b55a.png)
+
+a) ![image](https://user-images.githubusercontent.com/75383758/131772346-e4c13d1c-e98a-4fb8-9ace-47516218813d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772369-a12185c8-dab2-45a4-820b-80739ba3b52f.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772388-cd973805-53ba-49dd-b9c7-7ef336d888a0.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772405-494fb02e-6861-44b2-86ea-7f34a2c02de3.png)
+
+b) ![image](https://user-images.githubusercontent.com/75383758/131772427-9b9712f8-1134-4c03-b556-bb249107b95c.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772456-6cdf9b36-3839-42b8-952e-61761bd940b3.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772469-87e27bae-f4ae-4585-b47f-6f6924d40fe7.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772484-175143d2-1267-4c71-8418-4f9870fb0ad5.png)
+
+39. Determine la ecuación para la forma de onda que se muestra en la ﬁgura 15-84.
+
+![image](https://user-images.githubusercontent.com/75383758/131772526-d6faa62e-24a4-4022-a41b-00d58e557e75.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772555-777b8930-9e7c-4a17-b267-adaea86437d7.png)
+
+El tiempo que tomó para completar los 360° está dado por:
+
+![image](https://user-images.githubusercontent.com/75383758/131772640-c4b55929-f20b-467f-8801-640fdb8479c6.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772655-d380bca1-3531-4fc3-820f-f35b97f221fe.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772666-44f89484-d2c4-4579-980a-1e210353437c.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772681-66f1d3e7-0a46-46b3-9061-775040c36216.png)
+
+40. Para la forma de onda de la ﬁgura 15-85 determine i2.
+
+![image](https://user-images.githubusercontent.com/75383758/131772719-d53f16a6-87cb-4d4c-a421-60991a1d6ac5.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131772851-f6aa6817-481f-44d0-8f9a-6f572a04f9ac.png)
+
+Por lo tanto:
+
+![image](https://user-images.githubusercontent.com/75383758/131772895-2ca99bf7-fae3-4669-a174-56c30b925b88.png)
+
+De la forma de onda encontramos: i = Im*sen(-60°) en ωt = 0°, sustituyendo en la ecuación inicial:
+
+![image](https://user-images.githubusercontent.com/75383758/131773065-3b5fff60-d9d5-48e8-9a3e-9a206ce504da.png)
+
+De las ecuaciones 2 y 3:
+
+![image](https://user-images.githubusercontent.com/75383758/131773090-fa188533-e39f-433b-9d6a-9231d46233c4.png)
+
+Sustituyendo el valor de Im y θ en la ecuación 1:
+
+![image](https://user-images.githubusercontent.com/75383758/131773238-e385fff3-4ade-4767-9fc4-da34cda430a2.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131773254-42f779e1-f42d-434a-87a7-0e3d89cf9261.png)
+
+41. Dada v = 30 sen(ωt - 45°) donde ω = 40π rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?
+
+![image](https://user-images.githubusercontent.com/75383758/131773405-2027b871-d2f7-47d8-957c-79be0a097804.png)
+
+Sustituyendo ω en la ecuación 1:
+
+![image](https://user-images.githubusercontent.com/75383758/131773438-a099687d-a650-4f2f-b7b2-0897a8cdb493.png)
+
+       1. Entonces 40πt y 45° son angulos, (40πt + 45°) es también un angulo.
+       
+       2. Consideremos v = 30*sen(ωt - 45°)
+       
+       En t = 0s
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131773800-51782dc3-ac8e-4ea6-8712-913fc9811c97.png)
+
+       3. De los datos dados: 
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131773829-66070325-617c-4001-a772-c2be96f6ec43.png)
+
+       ![image](https://user-images.githubusercontent.com/75383758/131773887-919771d9-1645-4201-9b9f-a91258c237cf.png)
+
+       ![image](https://user-images.githubusercontent.com/75383758/131773911-5346bf9d-41a8-4033-8bb0-257f88e6a5e0.png)
+
+       De la ecuación 2:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131773982-38ae17af-1f7e-40d9-a456-b98485485210.png)
+
+       De la ecuación 2:
+       
+       ![image](https://user-images.githubusercontent.com/75383758/131774033-ebf72f80-2d70-432b-b595-dc74432d40ca.png)
+
+15-7 Introducción a los fasores
+
+42. Para cada uno de los fasores de la ﬁgura 15-86 determine la ecuación para v(t) o i(t) como aplicable y dibuje la forma de onda.
+       
 51. Para el circuito de la figura 15-90, e = 25 sen qt V y un periodo de T = 120 ms.
 
 ![image](https://user-images.githubusercontent.com/85126275/131603278-19233db5-d458-4b9a-8a89-ed0330d942eb.png)
@@ -276,7 +833,7 @@ d. Determine Vprom.
 Vprom =15V
 
 52. Use métodos numéricos para la parte curva de la forma de onda (con tamaño de incremento  t = 0.25 s), para determinar el área y el valor promedio para la forma de onda de la figura 15-91.
-
+ 
 ![image](https://user-images.githubusercontent.com/85126275/131604341-d55de1d5-e2a3-414c-8af0-5bce95575394.png)
 
 ![image](https://user-images.githubusercontent.com/85126275/131605641-38ff6cb5-e8f4-4c15-9c38-db83a86e599f.png)
