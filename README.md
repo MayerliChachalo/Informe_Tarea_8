@@ -32,11 +32,11 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
        Voltaje de CA: Es un tipo de corriente eléctrica que cambia a lo largo del tiempo. La variación puede ser en intensidad de corriente o en sentido a intervalos regulares. El voltaje varía entre los valores máximo y mínimo de manera cíclica. El voltaje es positivo la mitad del tiempo y negativo la otra mitad. Esto significa que la mitad del tiempo la corriente circula en un sentido y, la otra mitad en sentido opuesto.
        
-       ![image](https://user-images.githubusercontent.com/75383758/131753133-84f5e1a5-335d-4254-8cc8-e8dcc8fec8dc.png)
+![image](https://user-images.githubusercontent.com/75383758/131753133-84f5e1a5-335d-4254-8cc8-e8dcc8fec8dc.png)
        
        Corriente de CA: La intensidad de una corriente alterna se debe al mayor o menor número de electrones que oscilan en cada sección del conductor. Su medida la da la carga en culombios que atraviesan la sección del conductor en un segundo, y su unidad es el amperio.
        
-       ![image](https://user-images.githubusercontent.com/75383758/131753291-cfe41b70-013b-41b3-bd9c-597a3fed87a6.png)
+![image](https://user-images.githubusercontent.com/75383758/131753291-cfe41b70-013b-41b3-bd9c-597a3fed87a6.png)
 
 15-2 Generación de voltajes de ca
 
@@ -266,19 +266,19 @@ b. Determine la corriente en todos los puntos marcados.
 
        En 40°:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131763488-6d57148d-0d5d-4109-813b-8cbd3a23ebd3.png)
+![image](https://user-images.githubusercontent.com/75383758/131763488-6d57148d-0d5d-4109-813b-8cbd3a23ebd3.png)
 
        En 120°:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131763500-818138c8-4d28-456a-9d56-229fb8d1e565.png)
+![image](https://user-images.githubusercontent.com/75383758/131763500-818138c8-4d28-456a-9d56-229fb8d1e565.png)
 
        En 200°:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131763520-f0b99ddf-2375-4ab3-be37-fd0bc5f279a0.png)
+![image](https://user-images.githubusercontent.com/75383758/131763520-f0b99ddf-2375-4ab3-be37-fd0bc5f279a0.png)
 
        En 310°:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131763545-3de40b3e-a434-4685-8908-31d0a9bdc28f.png)
+![image](https://user-images.githubusercontent.com/75383758/131763545-3de40b3e-a434-4685-8908-31d0a9bdc28f.png)
 
 19. Un voltaje sinusoidal tiene un valor de 50 V cuando a = 150° ¿Qué valor tiene Vm?
 
@@ -356,19 +356,19 @@ f. 620°
        
        En t = 30 ms:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131764900-fa65802e-b80c-4866-9d22-f2804c926b9b.png)
+![image](https://user-images.githubusercontent.com/75383758/131764900-fa65802e-b80c-4866-9d22-f2804c926b9b.png)
 
        En t = 75 ms:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131764919-87fc6a1f-fffd-448c-88e6-74b38f331bf9.png)
+![image](https://user-images.githubusercontent.com/75383758/131764919-87fc6a1f-fffd-448c-88e6-74b38f331bf9.png)
 
        En t = 140 ms:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131764932-51bbfc68-a829-463b-aa87-6472aa9b18c6.png)
+![image](https://user-images.githubusercontent.com/75383758/131764932-51bbfc68-a829-463b-aa87-6472aa9b18c6.png)
 
        En t = 315 ms:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131764948-2f181f8c-8499-4193-a6cb-a7f0d6c513e3.png)
+![image](https://user-images.githubusercontent.com/75383758/131764948-2f181f8c-8499-4193-a6cb-a7f0d6c513e3.png)
        
 24. Una forma de onda sinusoidal tiene un periodo de 60 μs y Vm = 80 V. Dibuje la forma de onda. ¿Cuál es el voltaje en 4 μs?
 
@@ -378,11 +378,11 @@ f. 620°
 
        La ecuación general del voltaje sinusoidal es: v = Vm*sen(ωt)
        
-       ![image](https://user-images.githubusercontent.com/75383758/131765328-016475cb-c51e-41e7-b55d-f2a2c39e556c.png)
+![image](https://user-images.githubusercontent.com/75383758/131765328-016475cb-c51e-41e7-b55d-f2a2c39e556c.png)
 
        El voltaje en t = 4 μs es:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131765361-44b3703e-55d5-4573-9624-bf04f9294591.png)
+![image](https://user-images.githubusercontent.com/75383758/131765361-44b3703e-55d5-4573-9624-bf04f9294591.png)
 
 25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t = 5 μs. Determine Vm y dibuje la forma de onda. 
 
@@ -390,13 +390,13 @@ f. 620°
 
        v = Vm*sen(ωt)
        
-       ![image](https://user-images.githubusercontent.com/75383758/131765589-224d1466-0af2-40a2-a24b-cf83b925c9ad.png)
+![image](https://user-images.githubusercontent.com/75383758/131765589-224d1466-0af2-40a2-a24b-cf83b925c9ad.png)
 
-       ![image](https://user-images.githubusercontent.com/75383758/131765600-510b1972-c619-4cdc-b018-b42680b63ead.png)
+![image](https://user-images.githubusercontent.com/75383758/131765600-510b1972-c619-4cdc-b018-b42680b63ead.png)
 
-       ![image](https://user-images.githubusercontent.com/75383758/131765612-11d306ba-cdb2-4e39-9eb8-6b9c8d5f65fd.png)
+![image](https://user-images.githubusercontent.com/75383758/131765612-11d306ba-cdb2-4e39-9eb8-6b9c8d5f65fd.png)
 
-       ![image](https://user-images.githubusercontent.com/75383758/131765627-3f3aab6c-df49-431c-934b-17131849fc00.png)
+![image](https://user-images.githubusercontent.com/75383758/131765627-3f3aab6c-df49-431c-934b-17131849fc00.png)
 
 26. Para la forma de onda de la ﬁgura 15-81, determine v2.
 
@@ -404,11 +404,11 @@ f. 620°
 
        v = Vm*sen(a)
        
-       ![image](https://user-images.githubusercontent.com/75383758/131765701-531a1eae-03fe-4ace-b9b4-9441da070af3.png)
+![image](https://user-images.githubusercontent.com/75383758/131765701-531a1eae-03fe-4ace-b9b4-9441da070af3.png)
 
        v = 65.818*sen(a)
        
-       ![image](https://user-images.githubusercontent.com/75383758/131765744-aa681fce-ddca-4cec-825b-3028818c48e6.png)
+![image](https://user-images.githubusercontent.com/75383758/131765744-aa681fce-ddca-4cec-825b-3028818c48e6.png)
 
 15-6 Voltajes y corrientes como funciones del tiempo
 
@@ -584,19 +584,19 @@ b. i = 90 sen qt mA, T = 80 μs
 
               En t = 0 s
               
-              ![image](https://user-images.githubusercontent.com/75383758/131770318-1bc3b23a-0099-4ca7-baf3-baea2eb9b7c0.png)
+![image](https://user-images.githubusercontent.com/75383758/131770318-1bc3b23a-0099-4ca7-baf3-baea2eb9b7c0.png)
 
               En t = 80 μs
               
-              ![image](https://user-images.githubusercontent.com/75383758/131770393-68066ee7-d7bb-40b7-aa2f-170cbfb7c35f.png)
+![image](https://user-images.githubusercontent.com/75383758/131770393-68066ee7-d7bb-40b7-aa2f-170cbfb7c35f.png)
 
               En t = 410 μs
               
-              ![image](https://user-images.githubusercontent.com/75383758/131770431-386a62ed-7d49-4f9f-93ae-2f77132b915d.png)
+![image](https://user-images.githubusercontent.com/75383758/131770431-386a62ed-7d49-4f9f-93ae-2f77132b915d.png)
 
               En t = 1200 μs
               
-              ![image](https://user-images.githubusercontent.com/75383758/131770516-14b5fa2c-4b72-4884-9d1a-69f565fdb862.png)
+![image](https://user-images.githubusercontent.com/75383758/131770516-14b5fa2c-4b72-4884-9d1a-69f565fdb862.png)
 
 34. Dado v = 100 sen a. Dibuje un ciclo.
 
@@ -640,25 +640,25 @@ a. v = 100 sen(232.7t + 40°) V
        
        En t = 0s
        
-       ![image](https://user-images.githubusercontent.com/75383758/131771355-015672f1-84f4-4fcd-a360-96f5f13d1b5b.png)
+![image](https://user-images.githubusercontent.com/75383758/131771355-015672f1-84f4-4fcd-a360-96f5f13d1b5b.png)
 
        3. De la ecuación dada obtenemos: 
        
-       ![image](https://user-images.githubusercontent.com/75383758/131771397-65c1ce11-e78a-473c-813f-60c966f4b525.png)
+![image](https://user-images.githubusercontent.com/75383758/131771397-65c1ce11-e78a-473c-813f-60c966f4b525.png)
 
-       ![image](https://user-images.githubusercontent.com/75383758/131771447-53d5046c-04df-442f-a3ef-64e4566f0774.png)
+![image](https://user-images.githubusercontent.com/75383758/131771447-53d5046c-04df-442f-a3ef-64e4566f0774.png)
 
        En grados:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131771486-916072fc-957d-48cd-9548-23fd6160fcc5.png)
+![image](https://user-images.githubusercontent.com/75383758/131771486-916072fc-957d-48cd-9548-23fd6160fcc5.png)
 
        En segundos:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131771511-76113890-0e5a-4ee6-b5bf-7c3e9e4c059f.png)
+![image](https://user-images.githubusercontent.com/75383758/131771511-76113890-0e5a-4ee6-b5bf-7c3e9e4c059f.png)
 
 b. i = 20 sen(ωt - 60°) mA, f = 200 Hz
 
-       ![image](https://user-images.githubusercontent.com/75383758/131771539-7836745a-832d-4bd8-bf4f-96dcdad74c45.png)
+![image](https://user-images.githubusercontent.com/75383758/131771539-7836745a-832d-4bd8-bf4f-96dcdad74c45.png)
 
        1. Desde que ωt y 60° son angulos. (ωt - 60°) es también un angulo. 
        
@@ -666,37 +666,37 @@ b. i = 20 sen(ωt - 60°) mA, f = 200 Hz
        
        En t = 0s
        
-       ![image](https://user-images.githubusercontent.com/75383758/131771749-973ac1b5-7009-4650-a5d8-6cb10afab43a.png)
+![image](https://user-images.githubusercontent.com/75383758/131771749-973ac1b5-7009-4650-a5d8-6cb10afab43a.png)
 
        3. Sabemos que ω = 72000°/s. Toma 833.33 μs para que ωt alcance 60°. Entonces:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131771891-2cb24f3a-1684-4a49-9f79-602c3d098d7d.png)
+![image](https://user-images.githubusercontent.com/75383758/131771891-2cb24f3a-1684-4a49-9f79-602c3d098d7d.png)
 
        En grados:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131771922-8bad3cfe-2c27-4991-a320-d9c61177f107.png)
+![image](https://user-images.githubusercontent.com/75383758/131771922-8bad3cfe-2c27-4991-a320-d9c61177f107.png)
 
        En segundos: 
        
-       ![image](https://user-images.githubusercontent.com/75383758/131771946-489c6fc3-0033-47ad-a698-09f639a71679.png)
+![image](https://user-images.githubusercontent.com/75383758/131771946-489c6fc3-0033-47ad-a698-09f639a71679.png)
 
 37. Dada v = 5 sen(ωt + 45°). Si ω = 20π rad/s, ¿qué valor tiene v cuando t = 20, 75 y 90 ms?
 
        Sustituyendo ω en la ecuación inicial:
 
-       ![image](https://user-images.githubusercontent.com/75383758/131772122-1c55352e-21ed-4db1-822a-b65fc0e7b6c8.png)
+![image](https://user-images.githubusercontent.com/75383758/131772122-1c55352e-21ed-4db1-822a-b65fc0e7b6c8.png)
        
               En t = 20 ms:
               
-              ![image](https://user-images.githubusercontent.com/75383758/131772174-87bd920d-a69b-4062-bd0e-1c1e69008b77.png)
+![image](https://user-images.githubusercontent.com/75383758/131772174-87bd920d-a69b-4062-bd0e-1c1e69008b77.png)
 
               En t = 75 ms:
               
-              ![image](https://user-images.githubusercontent.com/75383758/131772207-1057cfea-cbf8-4c5f-aee6-16ec37cecb6d.png)
+![image](https://user-images.githubusercontent.com/75383758/131772207-1057cfea-cbf8-4c5f-aee6-16ec37cecb6d.png)
 
               En t = 90 ms:
               
-              ![image](https://user-images.githubusercontent.com/75383758/131772233-e20797d9-950a-4720-a06c-e319c3923d6f.png)
+![image](https://user-images.githubusercontent.com/75383758/131772233-e20797d9-950a-4720-a06c-e319c3923d6f.png)
 
 38. Repita el problema 35 para las formas de onda de la ﬁgura 15-83.
 
@@ -772,27 +772,139 @@ Sustituyendo ω en la ecuación 1:
        
        En t = 0s
        
-       ![image](https://user-images.githubusercontent.com/75383758/131773800-51782dc3-ac8e-4ea6-8712-913fc9811c97.png)
+![image](https://user-images.githubusercontent.com/75383758/131773800-51782dc3-ac8e-4ea6-8712-913fc9811c97.png)
 
        3. De los datos dados: 
        
-       ![image](https://user-images.githubusercontent.com/75383758/131773829-66070325-617c-4001-a772-c2be96f6ec43.png)
+![image](https://user-images.githubusercontent.com/75383758/131773829-66070325-617c-4001-a772-c2be96f6ec43.png)
 
-       ![image](https://user-images.githubusercontent.com/75383758/131773887-919771d9-1645-4201-9b9f-a91258c237cf.png)
+![image](https://user-images.githubusercontent.com/75383758/131773887-919771d9-1645-4201-9b9f-a91258c237cf.png)
 
-       ![image](https://user-images.githubusercontent.com/75383758/131773911-5346bf9d-41a8-4033-8bb0-257f88e6a5e0.png)
-
-       De la ecuación 2:
-       
-       ![image](https://user-images.githubusercontent.com/75383758/131773982-38ae17af-1f7e-40d9-a456-b98485485210.png)
+![image](https://user-images.githubusercontent.com/75383758/131773911-5346bf9d-41a8-4033-8bb0-257f88e6a5e0.png)
 
        De la ecuación 2:
        
-       ![image](https://user-images.githubusercontent.com/75383758/131774033-ebf72f80-2d70-432b-b595-dc74432d40ca.png)
+![image](https://user-images.githubusercontent.com/75383758/131773982-38ae17af-1f7e-40d9-a456-b98485485210.png)
+
+       De la ecuación 2:
+       
+![image](https://user-images.githubusercontent.com/75383758/131774033-ebf72f80-2d70-432b-b595-dc74432d40ca.png)
 
 15-7 Introducción a los fasores
 
 42. Para cada uno de los fasores de la ﬁgura 15-86 determine la ecuación para v(t) o i(t) como aplicable y dibuje la forma de onda.
+
+![image](https://user-images.githubusercontent.com/75383758/131774421-862a55c6-852f-4ff8-b83d-52d9e0323ccb.png)
+
+a) ![image](https://user-images.githubusercontent.com/75383758/131774468-9fca1843-5689-41c9-8327-422276799697.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131774486-c6dafbb1-f347-48a4-91ae-26136e922def.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131774551-ccc4d3fe-9f5c-4e5a-b69f-ce7eb5b02281.png)
+
+b) De la figura tenemos:
+
+![image](https://user-images.githubusercontent.com/75383758/131774598-3fd85d6b-e0c8-4252-80e4-7361d2dfac1b.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131774667-e01fa358-0e5d-457a-b52e-164dcb3eec42.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131774675-12bcf208-c128-4d6b-b33d-e41fe9e29f7b.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131774700-7f88a16f-088f-48f2-b9f0-6b23ee88f93c.png)
+
+c) ![image](https://user-images.githubusercontent.com/75383758/131774726-6e019dbf-534c-4ce7-b3e2-375254bf84be.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131774748-d1fc93c0-31e2-410d-b00b-ca2ae8967707.png)
+
+![image](https://user-images.githubusercontent.com/75383758/131774784-bf140e06-9156-4679-b2ad-dd7c5d2053db.png)
+
+43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.
+
+a. v = 100 sen ωt, i = 80 sen(ωt + 20°)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 20° e "i" está adelantada a v por 20°.
+       
+![image](https://user-images.githubusercontent.com/75383758/131775155-420fe32c-af87-4f38-868f-61dba7112485.png)
+
+b. v1 = 200 sen(ωt - 30°), v2 = 150 sen(ωt - 30°)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 0° e "i" están en fase.
+       
+![image](https://user-images.githubusercontent.com/75383758/131775316-61d4609c-bb8f-4361-a062-e3aff0019838.png)
+
+c. i1 = 40 sen(ωt + 30°), i2 = 50 sen(ωt - 20°)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 50° e "i1" está adelantada a "i2" por 50°.
+       
+![image](https://user-images.githubusercontent.com/75383758/131775604-63ab297a-d02b-4687-9519-d4e8b42d4ed1.png)
+
+d. v = 100 sen(ωt + 140°), i = 80 sen(ωt - 160°)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 60° e "i" está adelantada a v por 60°.
+       
+![image](https://user-images.githubusercontent.com/75383758/131775968-b65e30bc-fb61-4c49-a148-74cfd0361628.png)
+
+44. Repita el problema 43 para los siguientes:
+
+a. i = 40 sen(ωt + 80°), v = -30 sen(ωt - 70°)
+
+![image](https://user-images.githubusercontent.com/75383758/131776087-a3d4160e-b84e-4e63-bcff-373d1b179efb.png)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 30° y v está adelantada a "i" por 30°.
+       
+![image](https://user-images.githubusercontent.com/75383758/131776173-b800ea93-4d8f-4954-9d5e-93e6bf65cb97.png)
+
+b. v = 20 cos(ωt + 10°), i = 15 sen(ωt - 10°)
+
+![image](https://user-images.githubusercontent.com/75383758/131776293-9f90549b-fc5a-45f3-9ec4-a5e8de7f4ebd.png)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 110° y v está adelantada a "i" por 110°.
+       
+![image](https://user-images.githubusercontent.com/75383758/131776352-54ed2d2c-3347-4351-99f2-7544c51a6536.png)
+
+c. v = 20 cos(ωt + 10°), i = 15 sen(ωt + 120°)
+
+![image](https://user-images.githubusercontent.com/75383758/131776446-cb2b276b-c5ec-498c-82e0-f03441fcd4f9.png)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 20° e "i" está adelantada a v por 20°.
+       
+![image](https://user-images.githubusercontent.com/75383758/131776605-c046f390-8f75-4a10-8f1a-4f6d6a337cb1.png)
+
+d. v = 80 cos(ωt + 30°), i = 10 cos(ωt - 15°)
+
+![image](https://user-images.githubusercontent.com/75383758/131776716-f6b2a4ff-173b-4ef8-950b-baecc2a19e35.png)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 45° y v está adelantada a "i" por 45°.
+       
+![image](https://user-images.githubusercontent.com/75383758/131776773-d9cf5ba5-c0d6-4c08-9864-b807b6d7512f.png)
+
+45. Para las formas de onda de la ﬁgura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?
+
+![image](https://user-images.githubusercontent.com/75383758/131776814-38f723db-9919-4971-968a-8826116c0ef8.png)
+
+a) ![image](https://user-images.githubusercontent.com/75383758/131776904-a5e2a907-4556-4439-a5c7-ffe4424e73ab.png)
+
+       La fase de diferencia en la figura está dado por: 300° - 210° = 90°, por lo tanto la figura A está adelantada a B por 90°
+       
+b) ![image](https://user-images.githubusercontent.com/75383758/131777163-9b6848d8-aa74-43b8-9028-1944226e16ee.png)
+
+       La fase de diferencia en la figura está dado por: 90° - (-60°) = 150°, por lo tanto la figura A está adelantada a B por 150°
+       
+46. Dibuje los fasores de las formas de onda de la ﬁgura 15-87.
+
+![image](https://user-images.githubusercontent.com/75383758/131776814-38f723db-9919-4971-968a-8826116c0ef8.png)
+
+a) ![image](https://user-images.githubusercontent.com/75383758/131777475-dd2b7b9a-d6c8-4626-8702-09f120e2083e.png)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 90° y A está adelantada a B por 90°.
+       
+![image](https://user-images.githubusercontent.com/75383758/131777399-5b6b7f5d-e1b7-468e-a248-546a1b93397a.png)
+
+b) ![image](https://user-images.githubusercontent.com/75383758/131777491-151bf60c-4219-4cc3-967a-abffbf6e55c2.png)
+
+       Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 150° y A está adelantada a B por 150°.
+       
+![image](https://user-images.githubusercontent.com/75383758/131777551-9672d485-1b32-42b2-ab46-c890427ea1d6.png)
        
 51. Para el circuito de la figura 15-90, e = 25 sen qt V y un periodo de T = 120 ms.
 
