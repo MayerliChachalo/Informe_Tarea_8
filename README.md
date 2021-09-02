@@ -1282,8 +1282,8 @@ b. (41.9 <-80°)(16 + j2)
 
 **16-2 Números complejos en análisis de ca**
 
-8. A la manera de la figura 16-10, represente cada uno de los siguientes casos
-como fuentes transformadas.
+8. A la manera de la figura 16-10, represente cada uno de los siguientes casos como fuentes transformadas.
+
 a. e = 100 sen (qt + 30°) V 
 
 
@@ -1302,8 +1302,48 @@ e. e = 40 sen (qt + 120°) V
 f. e = 80 sen (qt - 70°) V
 
 
-9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas
-de la figura 16-48.
+9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
+
+10. Dado e1  10 sen (qt  30) V y e2  15 sen(qt  20) V. Determine su suma v  e1  e2 a la manera del ejemplo 16-7, es decir,
+
+a. Convierta e1 y e2 a su forma fasorial.
+
+b. Determine V  E1  E2
+
+c. Convierta V al dominio del tiempo.
+
+d. Grafique e1, e2 y v de acuerdo con la figura 16-13.
+
+11. Repita el problema 10 para v  e1  e2.
+
+12. Exprese los voltajes y las corrientes de la figura 16-49 en cantidades en el dominio
+del tiempo y en el dominio de de los fasores.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 4. VIDEO 
 
