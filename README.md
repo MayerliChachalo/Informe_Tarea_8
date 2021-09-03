@@ -927,6 +927,16 @@ c. v = 400 sen(ωt + 30°)
 d. v = 20 cos 2ωt
 
        El valor promedio de la forma de onda coseno sobre el ciclo es 0. Por lo tanto, el valor promedio de la forma de onda seno sobre un número integral de ciclos es también 0.      
+48. Use la ecuación 15-20 para calcular el área de medio ciclo de la ﬁgura 15-54 use incrementos de π/12 radianes.
+
+![image](https://user-images.githubusercontent.com/75383758/132002754-d55c3c51-2ff7-4513-9f85-92d13762820e.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132002772-a0b1d583-6ecd-4e99-9a89-5de37fdc1b5a.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132002812-e7b6b87a-f5fc-4ad6-a933-719178b3a41d.png)
+
+![image](https://user-images.githubusercontent.com/75383758/132002832-6dcb08d6-f053-4637-a2c3-67a82170c8cb.png)
+
        
 51. Para el circuito de la figura 15-90, e = 25 sen qt V y un periodo de T = 120 ms.
 
