@@ -1488,70 +1488,109 @@ b. Calcule vT = vR1 + vR2 y compárelo con vT calculada a partir de vT = i RT.
 
 ![image](https://user-images.githubusercontent.com/85126275/131935144-3716ff28-bce9-48a4-9aeb-3cddd52b73bd.png)
 
-21. Para la figura 16-53, Vm =? 10 V e Im = 5 A. Para cada expresión, determine la
-cantidad solicitada.
+21. Para la figura 16-53, Vm =? 10 V e Im = 5 A. Para cada expresión, determine la cantidad solicitada.
+
+![image](https://user-images.githubusercontent.com/85126275/131936113-d974ed46-b944-4b81-a31d-fe1737fb7a8a.png)
 
 a. vL = 10 sen (qt + 60°) V
 
+![image](https://user-images.githubusercontent.com/85126275/131936137-a4f22c25-a091-48c5-963f-6263bbfbd410.png)
 
 b. vL = 10 sen (qt - 15°) V
 
+![image](https://user-images.githubusercontent.com/85126275/131936146-2835469d-9d34-4b3d-b795-9c8d658b65f2.png)
 
 c. iL = 5 cos (qt - 60°) A
 
+![image](https://user-images.githubusercontent.com/85126275/131936222-ad6cc91b-5e9d-45d2-a498-4e83f2064371.png)
 
 d. iL = 5 sen (qt + 10°) A
 
+![image](https://user-images.githubusercontent.com/85126275/131936186-a3dc5a42-b253-42ca-88b3-d2228d7c3ddf.png)
 
 22. ¿Cuál es la reactancia de un inductor de 0.5 H a. . .? 
 
 a. 60 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131936249-a49f3c08-0e22-47af-8af0-c0bf034a1aeb.png)
 
 b. 1000 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131936273-f3470503-e19b-4dd5-87db-85f6ef16fd71.png)
 
 c. 500 rad/s
 
+![image](https://user-images.githubusercontent.com/85126275/131936297-5043e5ff-0b5b-4304-a678-26cd07c823a9.png)
 
 23. Para la figura 16-53, e = 100 sen qt y L = 0.5 H. Determine iL a. . .
 
+![image](https://user-images.githubusercontent.com/85126275/131936321-61c6dc79-5980-496b-b509-6203ca524822.png)
+
 a. 60 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131936706-1c1aee90-5a90-40fb-9a36-df7f64a97e63.png)
 
 b. 1000 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131936765-7236846d-a28e-4f2f-9a5f-3d029ddb0a4a.png)
 
 c. 500 rad/s
 
+![image](https://user-images.githubusercontent.com/85126275/131936857-73bf5200-9442-4ae6-87bc-0b3916248e4b.png)
 
 24. Para la figura 16-53, L = 200 mH,
 
+![image](https://user-images.githubusercontent.com/85126275/131936956-4adb65bd-bfde-47dd-99cd-9f6e0ddfadc6.png)
+
 a. Si vL = 100 sen377t V, ¿cuánto vale iL?
 
+![image](https://user-images.githubusercontent.com/85126275/131937055-6b1b1036-cbf0-4d58-ac70-a0dc036716f3.png)
+
 b. Si iL = 10 sen(2p x 400t - 60°) mA, ¿cuánto vale vL?
+
+![image](https://user-images.githubusercontent.com/85126275/131937117-45e78af4-4305-44d2-8315-1351e0ec1161.png)
 
 25. Para la figura 16-53, si
 
 a. vL = 40 sen (qt + 30°) V, iL = 364 sen (qt - 60°) mA y L = 2 mH, ¿cuál es el valor de f?
 
+![image](https://user-images.githubusercontent.com/85126275/131937225-f5fa75e8-1045-4ff2-89e1-5cd117237372.png)
 
 b. iL = 250 sen (qt + 40°) uA, vL = 40 sen (qt + v) V, y f = 500 kHz, ¿cuál es el valor de L y v?
 
+![image](https://user-images.githubusercontent.com/85126275/131937330-80cc513b-f7a1-4ca0-bbfd-c69ed5eb5f35.png)
 
 26. Repita el problema 21 si los voltajes y corrientes dados son para un capacitor en lugar de un inductor.
 
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/131937389-2f9a2115-e27f-420a-a0dd-420ac7b3afe3.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/131937404-49bf756a-56d9-4aa6-8f37-b51d697f1aa4.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/85126275/131937446-d7c1142d-f748-490a-942b-9b10ff07ef19.png)
+
+d)
+
+![image](https://user-images.githubusercontent.com/85126275/131937462-00c1877b-62f1-4b8e-b8fa-5d64b4d9dd22.png)
 
 27. ¿Cuál es la reactancia de un capacitor de 5 uF a. . .
 
 a. 60 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131937491-ffe14f48-9277-4149-b033-6e90d55157d3.png)
 
 b. 1000 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131937504-a22b2b33-b107-4295-a093-07f29159404c.png)
 
 c. 500 rad/s
 
+![image](https://user-images.githubusercontent.com/85126275/131937517-9996f4bb-03ef-4cfe-b4b5-5c245f6d9f79.png)
 
 28. Para la figura 16-54, e = 100 sen qt y C = 5 uF. Determine iC a. . .
 
