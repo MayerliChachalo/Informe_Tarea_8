@@ -1652,43 +1652,103 @@ b. iC = 350 sen (qt + 40°) mA, vC = 3.6 sen (qt + v) V y f = 12 kHz, ¿cuánto 
 
 31. Determine la impedancia de cada elemento de circuito de la figura 16-55.
 
+![image](https://user-images.githubusercontent.com/85126275/131940940-ec83e118-fbcd-499a-a4e3-f72b530207dd.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/131941096-3ab785cf-c028-49c6-9277-948e1002b0f3.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/131941114-77c94c60-53ba-444e-baa4-91a2137ac03f.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/85126275/131941141-7aba4cdc-a23a-4d01-b898-8bcff95c20fc.png)
+![image](https://user-images.githubusercontent.com/85126275/131941158-6f7a9bb6-7def-4872-97f7-b0f459bb5a6a.png)
+
 32. Si E = 100 V < 0° se aplica en cada uno de los elementos de la figura 16-56:
+
+![image](https://user-images.githubusercontent.com/85126275/131941186-f0521fe7-535e-41e4-a4f4-44527aeb68a9.png)
 
 a. Determine cada corriente en forma fasorial.
 
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/131941479-b81f0934-d7e5-4231-9f5b-ce70aaef0a60.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/131941449-bc2bf7a8-f722-4502-8495-a2c171d46285.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/85126275/131941437-20747e7f-386a-48d3-9e90-8e34d509b870.png)
 
 b. Exprese cada corriente en forma del dominio del tiempo.
 
+a)
+
+![image](https://user-images.githubusercontent.com/85126275/131941351-50c7c1c7-741f-44eb-ba5b-4fb597219c96.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/131941371-e4b1b799-b727-48fd-b59b-5d2441434de4.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/85126275/131941389-7fc5d364-9914-4c09-a6ba-802d56ddb580.png)
 
 34. Para cada inciso, determine la impedancia del elemento de circuito y establezca si es resistivo, inductivo o capacitivo.
 
 a. V = 240 V < -30°, I = 4 A < -30°.
 
+![image](https://user-images.githubusercontent.com/85126275/131941563-6968dad1-5b25-4e13-97aa-838fc71a43f2.png)
+
 
 b. V = 40 V < -30°, I = 4 A < -60°.
 
+![image](https://user-images.githubusercontent.com/85126275/131941670-95ce3759-fbae-4c7f-bb41-9df64cda94b3.png)
 
 c. V = 60 V < -30°, I = 4 A < 60°.
 
+![image](https://user-images.githubusercontent.com/85126275/131941733-7bb1ebe8-e5e3-4ddc-aac8-ebd43878b0eb.png)
 
 d. V = 140 V < -30°, I = 14 mA < -120°.
 
+![image](https://user-images.githubusercontent.com/85126275/131941785-f868184b-4261-4008-afb6-a243e1c467b0.png)
 
 35. Para cada circuito de la figura 16-57 determine la incógnita.
+
+![image](https://user-images.githubusercontent.com/85126275/131941814-49865fe5-b580-4a80-a1fa-165c450f2178.png)
+
+a) 
+
+![image](https://user-images.githubusercontent.com/85126275/131941877-efc5af0e-6971-4bbc-9492-fa7897dff6cf.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/85126275/131941940-5ed9bfbf-5ef8-4301-a28d-cf2a4ec26b75.png)
+
+
 
 36.
 
 a. Si VL = 120 V < 67°, L = 600 H, y f = 10 kHz ¿cuál es el valor de IL?
 
+![image](https://user-images.githubusercontent.com/85126275/131942013-3bd2ef1b-0f94-4bc7-a760-ad50a95d4a4b.png)
 
 b. Si IL = 48 mA < -43°, L = 550 mH, y f = 700 Hz, ¿cuál es el valor de VL?
 
+![image](https://user-images.githubusercontent.com/85126275/131942084-7841d8bc-973c-447e-a88d-a5f59ccceb99.png)
 
 c. Si VC = 50 V < -36°, C = 390 pF, y f = 470 kHz, ¿cuál es el valor de IC?
 
+![image](https://user-images.githubusercontent.com/85126275/131942149-e412eff5-7288-4c57-a8d8-9832d391413f.png)
 
 d. Si IC = 95 mA < 87°, C = 6.5 nF, y f = 1.2 MHz, ¿cuál es el valor de VC?
 
+![image](https://user-images.githubusercontent.com/85126275/131942234-6950e1a1-0517-491b-9be8-3e2169499a0a.png)
 
 ## 4. VIDEO 
 
