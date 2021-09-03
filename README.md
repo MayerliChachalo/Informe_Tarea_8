@@ -907,6 +907,26 @@ b) ![image](https://user-images.githubusercontent.com/75383758/131777491-151bf60
        Los fasores están mostrados en la figura (a). De estos, se puede ver que la diferencia de fase es 150° y A está adelantada a B por 150°.
        
 ![image](https://user-images.githubusercontent.com/75383758/131777551-9672d485-1b32-42b2-ab46-c890427ea1d6.png)
+
+15-8 Formas de onda de ca y valor promedio
+
+47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclos?
+
+a. i = 5 sen ωt
+
+       El valor promedio de la forma de onda seno sobre el ciclo es 0. Por lo tanto, el valor promedio de la forma de onda seno sobre un número integral de ciclos es también 0.
+       
+b. i = 40 cos ωt
+
+       El valor promedio de la forma de onda coseno sobre el ciclo es 0. Por lo tanto, el valor promedio de la forma de onda seno sobre un número integral de ciclos es también 0.
+       
+c. v = 400 sen(ωt + 30°)
+
+       El valor promedio de la forma de onda seno sobre el ciclo es 0. Por lo tanto, el valor promedio de la forma de onda seno sobre un número integral de ciclos es también 0.
+       
+d. v = 20 cos 2ωt
+
+       El valor promedio de la forma de onda coseno sobre el ciclo es 0. Por lo tanto, el valor promedio de la forma de onda seno sobre un número integral de ciclos es también 0.      
        
 51. Para el circuito de la figura 15-90, e = 25 sen qt V y un periodo de T = 120 ms.
 
