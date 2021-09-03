@@ -6,7 +6,9 @@ Integrantes: Chachalo Mayerli, Mensias Adrian
 
 **Objetivo General**
 
-- Analizar como los voltajes e intensidades de ca difieren de los de cd y los circuitos R,L y C.
+Determinar las relaciones de fase entre formas de onda con fasores y calcular valores promedio para formas de onda que varían en el tiempo así mismo calcular valores efectivos(rms) para formas de onda que varían en el tiempo.
+
+Determinar la impedancia para elementos de circuito R ,L y C y obtener los voltajes y corrientes en circuitos simples de ca mediante el concepto de impedancia.
 
 **Objetivos específicos**
 
@@ -1596,28 +1598,35 @@ c. 500 rad/s
 
 a. 60 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131937851-f43aed2f-cd75-4ce7-b8f6-8f00ce742f06.png)
 
 b. 1000 Hz 
 
+![image](https://user-images.githubusercontent.com/85126275/131937896-60cc0741-c79e-40dd-97fe-8106ef16f0e1.png)
 
 c. 500 rad/s
 
+![image](https://user-images.githubusercontent.com/85126275/131937992-fea83fe2-6972-4659-a9a6-87ff7a9cf50c.png)
 
 29. Para la figura 16-54, C = 50 uF.
 
 a. vC = 100 sen377t V, ¿cuánto vale iC?
 
+![image](https://user-images.githubusercontent.com/85126275/131938110-fc8dc09b-50c2-4c6c-a8f0-1864fa4f4029.png)
 
 b. iC = 10 sen(2p x 400t - 60°), ¿cuánto vale vC?
 
+![image](https://user-images.githubusercontent.com/85126275/131938189-f697f811-67f2-4ee3-a4e7-09fedf16a6ce.png)
 
 30. Para la figura 16-54, si
 
 a. vC = 362 sen (qt - 33°) V, iC = 94 sen (qt + 57°) mA y C = 2.2 mF, ¿cuánto vale f?
 
+![image](https://user-images.githubusercontent.com/85126275/131938269-caf0b940-f5b0-4b44-a819-659a92e43bc9.png)
 
 b. iC = 350 sen (qt + 40°) mA, vC = 3.6 sen (qt + v) V y f = 12 kHz, ¿cuánto valen C y v?
 
+![image](https://user-images.githubusercontent.com/85126275/131938387-6c8da122-ebc3-4348-9b21-0c976c7806ec.png)
 
 **16-7 El concepto de impedancia**
 
