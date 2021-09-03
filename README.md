@@ -1432,126 +1432,195 @@ b. Determine la ecuación para iT en el dominio del tiempo.
 
 17. Para la figura 16-52, R = 12 Ω. Para cada uno de los siguientes casos determine la corriente o voltaje y grafíquelo.
 
+![image](https://user-images.githubusercontent.com/85126275/131933535-28f42ef9-4cf2-4915-be86-7084f915c5bf.png)
+
 a. v = 120 sen qt V
+
+![image](https://user-images.githubusercontent.com/85126275/131933575-b0ee6575-0e30-4141-9245-972d2e216651.png)
+
+grafica 
+
+![image](https://user-images.githubusercontent.com/85126275/131933604-34845d32-3a68-4ea5-bfd3-77c5e016186f.png)
 
 b. v = 120 sen (qt + 27°) V
 
+![image](https://user-images.githubusercontent.com/85126275/131933622-fcf7ba0f-da0d-4f71-9674-8229a0952b4b.png)
+
+Grafica 
+
+![image](https://user-images.githubusercontent.com/85126275/131933646-8f000cbe-c75a-4419-b323-c7ac00ddf4b0.png)
+
 c. i = 17 sen (qt - 56°) mA
+
+![image](https://user-images.githubusercontent.com/85126275/131933705-b66a0679-ee0d-4b60-b749-52a7f012df97.png)
+
+Grafica 
+
+![image](https://user-images.githubusercontent.com/85126275/131933721-1fdf3f98-e514-480d-b5e7-84ae93557347.png)
 
 d. i = -17 cos (qt - 67°) uA
 
+![image](https://user-images.githubusercontent.com/85126275/131933748-e664c887-7307-43ed-9c91-78ebe74087dd.png)
+
+Grafica 
+
+![image](https://user-images.githubusercontent.com/85126275/131933795-3bd65c50-e7e1-47f4-adee-9814dead78bf.png)
+
 18. Dados v = 120 sen (qt + 52°) V e i = 15 sen (qt + 52°) mA, ¿cuál es el valor de R?
+
+![image](https://user-images.githubusercontent.com/85126275/131933969-a30e75a2-6556-4196-872c-aef0afcfc264.png)
 
 19. Dos resistores R1 = 10 kohm y R2 = 12.5 kohm están en serie. Si i = 14.7 sen (qt + 39°) mA
 
+![image](https://user-images.githubusercontent.com/85126275/131934008-222bf9eb-77cf-4e21-9543-7c1576ce1ee8.png)
+
 a. ¿Cuánto valen vR1 y vR2?
+
+![image](https://user-images.githubusercontent.com/85126275/131934047-1d6ac3b4-6f3c-4eb3-b3b1-9d2c32244eba.png)
 
 b. Calcule vT = vR1 + vR2 y compárelo con vT calculada a partir de vT = i RT.
 
+![image](https://user-images.githubusercontent.com/85126275/131934843-341bce47-5231-48ed-885e-2b7bd2e27515.png)
 
-20. El voltaje en un cierto componente es v  120 sen (qt  55) V y su corriente es 18 cos (qt  145) mA. Demuestre que el componente es un resistor y determine su valor.
+20. El voltaje en un cierto componente es v = 120 sen (qt + 55°) V y su corriente es -18 cos (qt + 145°) mA. Demuestre que el componente es un resistor y determine su valor.
 
-21. Para la figura 16-53, Vm  10 V e Im  5 A. Para cada expresión, determine la
+![image](https://user-images.githubusercontent.com/85126275/131935125-91d21f60-9069-45b4-8c02-fe01a999f68d.png)
+
+![image](https://user-images.githubusercontent.com/85126275/131935144-3716ff28-bce9-48a4-9aeb-3cddd52b73bd.png)
+
+21. Para la figura 16-53, Vm =? 10 V e Im = 5 A. Para cada expresión, determine la
 cantidad solicitada.
 
-a. vL  10 sen (qt  60) V, iL  _____
+a. vL = 10 sen (qt + 60°) V
 
-b. vL  10 sen (qt  15) V, iL  _____
 
-c. iL  5 cos (qt  60) A, vL  _____
+b. vL = 10 sen (qt - 15°) V
 
-d. iL  5 sen (qt  10) A, vL  _____
+
+c. iL = 5 cos (qt - 60°) A
+
+
+d. iL = 5 sen (qt + 10°) A
+
 
 22. ¿Cuál es la reactancia de un inductor de 0.5 H a. . .? 
 
 a. 60 Hz 
 
+
 b. 1000 Hz 
+
 
 c. 500 rad/s
 
-23. Para la figura 16-53, e  100 sen qt y L  0.5 H. Determine iL a. . .
+
+23. Para la figura 16-53, e = 100 sen qt y L = 0.5 H. Determine iL a. . .
 
 a. 60 Hz 
 
+
 b. 1000 Hz 
+
 
 c. 500 rad/s
 
-24. Para la figura 16-53, L  200 mH,
 
-a. Si vL  100 sen377t V, ¿cuánto vale iL?
+24. Para la figura 16-53, L = 200 mH,
 
-b. Si iL  10 sen(2p  400t  60) mA, ¿cuánto vale vL?
+a. Si vL = 100 sen377t V, ¿cuánto vale iL?
+
+b. Si iL = 10 sen(2p x 400t - 60°) mA, ¿cuánto vale vL?
 
 25. Para la figura 16-53, si
 
-a. vL  40 sen (qt  30) V, iL  364 sen (qt  60) mA y L  2 mH, ¿cuál es el valor de f?
+a. vL = 40 sen (qt + 30°) V, iL = 364 sen (qt - 60°) mA y L = 2 mH, ¿cuál es el valor de f?
 
 
-b. iL  250 sen (qt  40) A, vL  40 sen (qt  v) V, y f  500 kHz, ¿cuál es el valor de L y v?
+b. iL = 250 sen (qt + 40°) uA, vL = 40 sen (qt + v) V, y f = 500 kHz, ¿cuál es el valor de L y v?
+
 
 26. Repita el problema 21 si los voltajes y corrientes dados son para un capacitor en lugar de un inductor.
 
-27. ¿Cuál es la reactancia de un capacitor de 5 F a. . .
+
+27. ¿Cuál es la reactancia de un capacitor de 5 uF a. . .
 
 a. 60 Hz 
 
+
 b. 1000 Hz 
+
 
 c. 500 rad/s
 
-28. Para la figura 16-54, e  100 sen qt y C  5 F. Determine iC a. . .
+
+28. Para la figura 16-54, e = 100 sen qt y C = 5 uF. Determine iC a. . .
 
 a. 60 Hz 
 
+
 b. 1000 Hz 
+
 
 c. 500 rad/s
 
-29. Para la figura 16-54, C  50 F.
 
-a. vC  100 sen377t V, ¿cuánto vale iC?
+29. Para la figura 16-54, C = 50 uF.
 
-b. iC  10 sen(2p  400t  60), ¿cuánto vale vC?
+a. vC = 100 sen377t V, ¿cuánto vale iC?
+
+
+b. iC = 10 sen(2p x 400t - 60°), ¿cuánto vale vC?
 
 
 30. Para la figura 16-54, si
 
-a. vC  362 sen (qt  33) V, iC  94 sen (qt  57) mA y C  2.2 mF, ¿cuánto vale f?
+a. vC = 362 sen (qt - 33°) V, iC = 94 sen (qt + 57°) mA y C = 2.2 mF, ¿cuánto vale f?
 
-b. iC  350 sen (qt  40) mA, vC  3.6 sen (qt  v) V y f  12 kHz, ¿cuánto valen C y v?
+
+b. iC = 350 sen (qt + 40°) mA, vC = 3.6 sen (qt + v) V y f = 12 kHz, ¿cuánto valen C y v?
+
 
 **16-7 El concepto de impedancia**
 
 31. Determine la impedancia de cada elemento de circuito de la figura 16-55.
 
-32. Si E  100 V∠0 se aplica en cada uno de los elementos de la figura 16-56:
+32. Si E = 100 V < 0° se aplica en cada uno de los elementos de la figura 16-56:
 
 a. Determine cada corriente en forma fasorial.
 
+
 b. Exprese cada corriente en forma del dominio del tiempo.
+
 
 34. Para cada inciso, determine la impedancia del elemento de circuito y establezca si es resistivo, inductivo o capacitivo.
 
-a. V  240 V∠30, I  4 A∠30.
+a. V = 240 V < -30°, I = 4 A < -30°.
 
-b. V  40 V∠30, I  4 A∠60.
 
-c. V  60 V∠30, I  4 A∠60.
+b. V = 40 V < -30°, I = 4 A < -60°.
 
-d. V  140 V∠30, I  14 mA∠120.
+
+c. V = 60 V < -30°, I = 4 A < 60°.
+
+
+d. V = 140 V < -30°, I = 14 mA < -120°.
+
 
 35. Para cada circuito de la figura 16-57 determine la incógnita.
 
-36. 
-a. Si VL  120 V ∠67, L  600 H, y f  10 kHz ¿cuál es el valor de IL?
+36.
 
-b. Si IL  48 mA ∠43, L  550 mH, y f  700 Hz, ¿cuál es el valor de VL?
+a. Si VL = 120 V < 67°, L = 600 H, y f = 10 kHz ¿cuál es el valor de IL?
 
-c. Si VC  50 V ∠36, C  390 pF, y f  470 kHz, ¿cuál es el valor de IC?
 
-d. Si IC  95 mA ∠87, C  6.5 nF, y f  1.2 MHz, ¿cuál es el valor de VC?
+b. Si IL = 48 mA < -43°, L = 550 mH, y f = 700 Hz, ¿cuál es el valor de VL?
+
+
+c. Si VC = 50 V < -36°, C = 390 pF, y f = 470 kHz, ¿cuál es el valor de IC?
+
+
+d. Si IC = 95 mA < 87°, C = 6.5 nF, y f = 1.2 MHz, ¿cuál es el valor de VC?
+
 
 ## 4. VIDEO 
 
